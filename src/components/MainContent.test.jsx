@@ -3,6 +3,7 @@ import { render, screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 
 import MainContent from './MainContent';
+// My test for skip ci
 
 describe('MainContent', () => {
   it('should render a button', () => {
